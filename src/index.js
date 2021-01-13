@@ -1,3 +1,3 @@
 //import Singleton from "./Singleton.js";
 import "./concurrent";
-console.log('2222')
+console.log('1111')
