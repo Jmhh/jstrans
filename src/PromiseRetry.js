@@ -7,7 +7,6 @@
 export const promiseRetry = (promiseFn, time = 3) => {
   return new Promise(async (resolve, reject) => {
     while (time--) {
-      console.log(111);
       try {
         let result = await promiseFn();
         resolve(result);

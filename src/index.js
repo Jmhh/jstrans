@@ -1,2 +1,2 @@
-import "./concurrent";
-console.log('233333')
+//import Singleton from "./Singleton.js";
+import "./multiRequest";

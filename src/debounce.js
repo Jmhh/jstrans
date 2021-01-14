@@ -4,7 +4,7 @@
  * @param {number} wait
  */
 function debounce(fn, wait) {
-  let timer;
+  let timer = null;
   return function (...args) {
     clearTimeout(timer);
     timer = setTimeout(() => {
