@@ -1,3 +1,3 @@
 //import Singleton from "./Singleton.js";
 import "./multiRequest";
-console.log('test update')
+console.log('dev-fix')
