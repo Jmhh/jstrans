@@ -1,4 +1,3 @@
 //import Singleton from "./Singleton.js";
 import "./multiRequest";
-console.log('cs')
-console.log('123')
+console.log('dev')
