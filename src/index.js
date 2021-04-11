@@ -1,5 +1,4 @@
 //import Singleton from "./Singleton.js";
-import "./multiRequest";
-console.log('dev')
-console.log('111')
+import "./unique";
+console.log('banben1445, 多了1445.js')
 
